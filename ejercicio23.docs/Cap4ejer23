@@ -1,0 +1,8 @@
+package cap4ejer23;
+
+public class Cap4ejer23 {
+     public static void main(String[] args) {
+        interfaz ventana = new interfaz();
+        ventana.setVisible(true);
+    }
+}
