@@ -1,0 +1,8 @@
+package cap4prop22;
+
+public class Cap4rop22{
+    public static void main(String[] args) {
+        interfaz ventana = new interfaz();
+        ventana.setVisible(true);
+    }
+}
